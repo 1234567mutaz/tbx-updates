@@ -1,0 +1,18 @@
+{
+  "lamha": {
+    "version": "1.6.6",
+    "build": 16,
+    "url": "https://github.com/1234567mutaz/tbx-updates/releases/download/v1.6.6/LAMHA_TradeBeastX_v1.6.6.apk",
+    "notes": "أسعار المراقب الذكي مطابقة لمنصتك، ووقت كل توصية ظاهر عليها."
+  },
+  "horus": {
+    "version": "1.6.6",
+    "build": 16,
+    "url": "https://github.com/1234567mutaz/tbx-updates/releases/download/v1.6.6/HORUS_TradeBeastX_v1.6.6.apk",
+    "notes": "أسعار المراقب الذكي مطابقة لمنصتك، ووقت كل توصية ظاهر عليها."
+  },
+  "spread": {
+    "BTC": 8,
+    "XAU": 0.25
+  }
+}
